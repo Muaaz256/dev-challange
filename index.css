@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.json-message, .json-user {
+  background-color: rgba(0, 0, 0, 0.167);
+  padding: 10px;
+  font-family: 'Courier New', Courier, monospace;
+  border: 1px solid black;
+}
+
+.echo-user, .echo-message {
+  background-color: rgba(240, 248, 255, 0.814);
+  border: 1px solid rgba(0, 0, 0, 0.161);
+  padding: 20px;
+  color: rgba(0, 0, 0, 0.647);
+  border-radius: 5px;
+}
